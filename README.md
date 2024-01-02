@@ -29,6 +29,7 @@
 [![Security Rating][security-rating-shield]][security-rating-url]
 [![Maven Central][maven-central-shield]][maven-central-url]
 [![Maven Snapshots][snapshot-shield]][snapshot-url]
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ossf/scorecard/badge)](https://securityscorecards.dev/viewer/?uri=github.com/heutelbeck/sapl-policy-engine)
 
 
 <!-- ABOUT THE PROJECT -->
